@@ -1,0 +1,7 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="text_22sp">12dp</dimen>
+
+    <!-- Dimensions -->
+    <dimen name="scale_8dp">8dp</dimen>
+</resources>

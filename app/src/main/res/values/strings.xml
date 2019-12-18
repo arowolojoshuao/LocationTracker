@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+    <string name="map_direction_key">AIzaSyCSfnuk5zjABJ1vfMxJ2R5YuIlwiD0GBJE</string>
+    <string name="calculate_distance">Calculate Distance</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
